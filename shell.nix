@@ -11,5 +11,6 @@ mkShell {
     elmPackages.elm-test
     elmPackages.elm-live
     elmPackages.elm-language-server
+    nodePackages.live-server
   ];
 }
